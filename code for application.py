@@ -26,7 +26,7 @@ def suggest_clothing(temp):
 ### Asks the user to enter a zip code
 zip_code = input("Enter a zip code: ")
 
-api_key = "1a41f3f626b949ac6955ea272d5f3a35"  # API Key for OpenWeatherMap
+api_key = ""  # API Key for OpenWeatherMap
 
 
 ### Calls the get_weather function to retrieve weather data
