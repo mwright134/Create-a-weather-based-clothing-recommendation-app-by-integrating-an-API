@@ -14,7 +14,7 @@ Welcome to the README file for creating a weather-based clothing recommendation 
 
 
 ## Python Script
-This is the Python script to for the Application:
+This is the Python script for the Application:
 
 ```
 ### This program allows a user to see weather information based on zip code
